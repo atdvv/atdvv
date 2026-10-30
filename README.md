@@ -15,11 +15,13 @@ my skills
 >
 > Python - 5+ years
 >
-> Machine Learning - ~11 months
+> Machine Learning - almost 2 years
 >
-> Reverse Engineering - ~9 months
+> Reverse Engineering - 1+ years
 >
 > Java - 1 month
+>
+> C++ - learning rn
 
 ## my github profile stats
 <p align="center">
